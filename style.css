@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #0056b3;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+.resources ul {
+    list-style: none; /* إزالة النقاط */
+    padding: 0; /* إزالة المسافة بين القائمة وحدودها */
+}
+
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+}
+
+footer a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
